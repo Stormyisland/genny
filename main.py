@@ -6,7 +6,7 @@ import random
 uppercase_letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
 lowercase_letters = uppercase_letters.lower()
 numbers = "1234567890"
-symbols = "~!@#$%^&*()_+=`?><{][]}` "
+symbols = "~!@#$%^&*()_+=`?><{][]}`"
 
 string = uppercase_letters + lowercase_letters +  numbers + symbols
 length = 18 
